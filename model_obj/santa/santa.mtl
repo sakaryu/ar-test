@@ -1,5 +1,5 @@
-# Blender MTL File: 'santa_f.blend'
-# Material Count: 11
+# Blender MTL File: 'None'
+# Material Count: 13
 
 newmtl Ceinturon.002
 Ns 400.000000
@@ -33,7 +33,7 @@ Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl barbes.002
+newmtl barbes
 Ns 300.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -76,6 +76,26 @@ d 1.000000
 illum 2
 map_Kd ceinturon_boucle.png
 
+newmtl eyes
+Ns 347.058824
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl eyes_little
+Ns 400.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
 newmtl main.002
 Ns 400.000000
 Ka 0.573856 0.573856 0.573856
@@ -87,7 +107,7 @@ d 1.000000
 illum 2
 map_Kd main.png
 
-newmtl man.002
+newmtl man
 Ns 400.000000
 Ka 0.573856 0.573856 0.573856
 Kd 1.000000 1.000000 1.000000
